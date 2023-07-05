@@ -1,16 +1,12 @@
 # Responsive Portfolio Website
 Bu proje, kişisel portföyünüzü sergilemek için tasarlanmış duyarlı (responsive) bir web sitesidir.
 
-İçerik
 
+İÇERİK
 Home
-
 About
-
 Portfolio
-
 Contact
-
 Hakkında
 
 
